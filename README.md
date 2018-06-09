@@ -1,4 +1,11 @@
 # ThiccifyBot
 
-This is a reddit bot I made that when summoned using the command !thicc will convert the parent post or comment's text into
-the "thicc" alphabet and post it.
+This is a reddit bot that when summoned using the command '!thicc' will convert a post or comment's text into
+the "thicc" alphabet. Running on heroku.
+
+Currently running on
+- /r/test
+- /r/dankmemes
+- /r/copypasta
+- /r/memes
+- /r/me_irl
